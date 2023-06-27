@@ -1,2 +1,4 @@
-package one.digitalinnovation;public class Fila {
+package one.digitalinnovation;
+
+public class Fila {
 }
