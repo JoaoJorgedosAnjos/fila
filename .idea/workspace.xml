@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792c63c6-3658-45e8-b7e4-7587bfd078e3" name="Changes" comment="Explicação teórica do conceito de Filas">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="792c63c6-3658-45e8-b7e4-7587bfd078e3" name="Changes" comment="Implementação da classe fila">
+      <change afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Fila.java" afterDir="false" />
     </list>
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687879070369</updated>
       <workItem from="1687879071399" duration="709000" />
-      <workItem from="1687954362855" duration="1615000" />
+      <workItem from="1687954362855" duration="2570000" />
     </task>
     <task id="LOCAL-00001" summary="Explicação teórica do conceito de Filas">
       <option name="closed" value="true" />
@@ -63,7 +62,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687879291153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementação da classe fila">
+      <option name="closed" value="true" />
+      <created>1687956240184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687956240184</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Explicação teórica do conceito de Filas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Explicação teórica do conceito de Filas" />
+    <MESSAGE value="Implementação da classe fila" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação da classe fila" />
   </component>
 </project>
