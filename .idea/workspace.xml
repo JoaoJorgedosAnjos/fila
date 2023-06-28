@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792c63c6-3658-45e8-b7e4-7587bfd078e3" name="Changes" comment="Implementação da classe fila">
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+    <list default="true" id="792c63c6-3658-45e8-b7e4-7587bfd078e3" name="Changes" comment="Refatoração para embutir o nó">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Fila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/No.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687879070369</updated>
       <workItem from="1687879071399" duration="709000" />
-      <workItem from="1687954362855" duration="2570000" />
+      <workItem from="1687954362855" duration="4077000" />
     </task>
     <task id="LOCAL-00001" summary="Explicação teórica do conceito de Filas">
       <option name="closed" value="true" />
@@ -70,7 +71,31 @@
       <option name="project" value="LOCAL" />
       <updated>1687956240184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refatorando o código">
+      <option name="closed" value="true" />
+      <created>1687958889532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687958889532</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Utilização da Classe Fila">
+      <option name="closed" value="true" />
+      <created>1687958903361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687958903361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refatoração para embutir o nó">
+      <option name="closed" value="true" />
+      <created>1687959441479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687959441479</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +104,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Explicação teórica do conceito de Filas" />
     <MESSAGE value="Implementação da classe fila" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação da classe fila" />
+    <MESSAGE value="Refatorando o código" />
+    <MESSAGE value="Utilização da Classe Fila" />
+    <MESSAGE value="Refatoração para embutir o nó" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatoração para embutir o nó" />
   </component>
 </project>
